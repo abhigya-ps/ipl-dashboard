@@ -14,7 +14,7 @@ in-memory database.
 ### Java Spring Boot Backend
 - <i>Controller Layer</i> : contains the API routes and processes web requests which is then directed to methods in the repository layer
 - <i>Repository Layer</i> : stores logic necessary to interact with the database, including mostly GET requests to retrieve list of teams, past matches, or match details
-- <i>Model Layer</i> : object-oriented classes that store match data with corresponding column headers as class properties and include methods to retrieve or modify each property
+- <i>Model Layer</i> : object-oriented design involving classes that store match data with corresponding column headers as class properties, and includes methods to retrieve or modify each property
 
 <i> This web application was packaged and deployed through AWS Elastic Beanstalk. </i>
 
