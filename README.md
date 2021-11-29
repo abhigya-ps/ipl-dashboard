@@ -8,7 +8,7 @@ in-memory database.
 
 ### React Frontend
 - <i>Router</i> : stores URLs that direct application flow to various components based on the user's clicks and displays selected components
-- <i>Components</i> : holds UI objects as well as logic to display and manipulate objects which makes up the body and structure of the frontend
+- <i>Components</i> : holds UI objects as well as logic to display and manipulate objects which make up the body and structure of the frontend
 - <i>Service</i> : contains calls to the Java API via mainly GET requests and passes incoming JSON data to various components for display
 
 ### Java Spring Boot Backend
