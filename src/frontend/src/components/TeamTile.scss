@@ -1,6 +1,11 @@
 .TeamTile {
-    height: 170px;
-    text-align: center;
-    border: 1px solid white;
-    padding: 20px; 
+  height: 120px;
+  line-height: 120px; /* <-- this is what you must define */
+  text-align: center;
+  border: 1px solid white;
+}
+
+.TeamTile:hover {
+  background-color: #a6acaf;
+  color: #282c34;
 }
