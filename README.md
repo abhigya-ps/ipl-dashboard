@@ -1,4 +1,4 @@
-## <a href="http://ipldashboardjs-env.eba-eaij2vm4.us-west-2.elasticbeanstalk.com/"> Indian Premier League Cricket Dashboard </a>
+## Indian Premier League Cricket Dashboard
 <i> Java Spring Boot, ReactJS, AWS </i>
 
 Developed a dashboard that displays match results of teams in the Indian Premier Cricket League. This project uses React 
